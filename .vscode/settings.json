@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		".github": false,
+		".maker": false,
+		".build": true,
+		".vscode/": false,
+
+		"vendor": true,
+	}
+}
